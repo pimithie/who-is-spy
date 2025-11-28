@@ -1,0 +1,5 @@
+{
+  "name": "Who is the Spy - AI Host",
+  "description": "An AI-powered 'Who is the Spy' (谁是卧底) game generator. Setup a game for 5-20 players, generate unique word pairs using Gemini, and distribute roles via QR codes.",
+  "requestFramePermissions": []
+}
